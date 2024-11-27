@@ -1,4 +1,5 @@
 # 🐄 Análisis de Producción Lechera en Granjas Españolas
+Hecho por: @migueldiazpdj y @DanteSc03
 
 Este repositorio contiene un Jupyter Notebook que analiza la producción de leche en granjas españolas, con el objetivo de identificar los factores clave que afectan la eficiencia y productividad de las granjas lecheras. El análisis utiliza datos históricos de granjas españolas para explorar las relaciones entre varios factores de entrada, como el número de vacas, la superficie de tierra, las horas de trabajo y la cantidad de alimento.
 
