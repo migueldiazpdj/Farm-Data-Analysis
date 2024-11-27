@@ -60,15 +60,7 @@ pip install stata_kernel
 - El análisis está escrito en español y está dirigido a aquellos con cierto conocimiento sobre la producción lechera y econometría.
 - Se recomienda familiaridad con los comandos de Stata, ya que el notebook utiliza extensamente Stata para el análisis estadístico.
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar el análisis, no dudes en abrir un pull request.
-
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## 📧 Contacto
-
-Para preguntas o colaboraciones, por favor contacta al mantenedor del proyecto vía email: [[danteschrantz@gmail.com](mailto\:danteschrantz@gmail.com)].
 
